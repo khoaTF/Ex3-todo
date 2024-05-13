@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385387978023",
+    "project_id": "fir-ex3-8df44",
+    "storage_bucket": "fir-ex3-8df44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385387978023:android:a06c8272d208b9b6161d02",
+        "android_client_info": {
+          "package_name": "com.anonymous.Ex3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySwAZJ7wiKYBn11du5VZSkOUf3Nke_3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385387978023:android:baec579d9e968488161d02",
+        "android_client_info": {
+          "package_name": "com.anonymous.Ex3todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySwAZJ7wiKYBn11du5VZSkOUf3Nke_3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
